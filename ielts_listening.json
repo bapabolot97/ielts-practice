@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Part 1: Joining a community garden",
+    "script": "RECEPTIONIST: Good morning, Westfield Community Garden. How can I help?\nCALLER: Hello. I'd like to rent a small plot.\nRECEPTIONIST: Certainly. Could I take your first name?\nCALLER: It's Mara. That's M-A-R-A.\nRECEPTIONIST: Thanks, Mara. And which street do you live on?\nCALLER: Willow Street.\nRECEPTIONIST: Fine. We have a plot available near the tool shed. When would you like to start?\nCALLER: Would April be possible?\nRECEPTIONIST: Yes, that's ideal. The annual fee for that plot is 45 pounds.\nCALLER: That's fine. Is there somewhere to leave my bicycle?\nRECEPTIONIST: Yes, there's a rack beside the gate. Now, what would you like to grow?\nCALLER: Mainly beans, I think. I've grown them before.\nRECEPTIONIST: Good choice. We provide water, and you can borrow basic tools. You'll need to bring your own gloves, though.\nCALLER: I have some already. Are there any rules I should know?\nRECEPTIONIST: Please visit your plot at least once a week during the growing season.\nCALLER: No problem. And is there anyone who can show me around?\nRECEPTIONIST: Yes, ask for Peter, our volunteer coordinator. He'll meet you at the entrance.\nCALLER: Lovely. What time should I come on Saturday?\nRECEPTIONIST: Come at 10 o'clock. I'll put your name down now.",
+    "questions": [
+      {"prompt": "What is the caller's first name?", "answer": "Mara"},
+      {"prompt": "Which street does the caller live on?", "answer": "Willow"},
+      {"prompt": "In which month would the caller like to start?", "answer": "April"},
+      {"prompt": "What is the annual plot fee in pounds?", "answer": "45"},
+      {"prompt": "Where is the bicycle rack, beside the _____?", "answer": "gate"},
+      {"prompt": "What does the caller mainly want to grow?", "answer": "beans"},
+      {"prompt": "What must gardeners bring for themselves?", "answer": "gloves"},
+      {"prompt": "How often should gardeners visit during the growing season, at least once a _____?", "answer": "week"},
+      {"prompt": "What is the volunteer coordinator's first name?", "answer": "Peter"},
+      {"prompt": "At what hour should the caller arrive on Saturday?", "answer": "10"}
+    ]
+  },
+  {
+    "title": "Part 2: Riverside festival information",
+    "script": "Welcome to the Riverside Festival. My name's Anna, and I'd like to give you a few practical details before the gates open. This year the festival takes place in Meadow Park, rather than in the town square. If you've come by car, please use the north car park; the south one is reserved for performers. The first event is a drumming performance, which begins at 11:30, and you can watch it from the grass in front of the main stage.\n\nFamilies looking for the children's activities should follow the yellow signs. These lead to a tent where children can make masks using recycled materials. The activity is free, but places are limited, so please collect a ticket at the information desk. If anyone in your group loses something, ask at the library van, where all lost property will be kept.\n\nThere's a wide choice of refreshments, including a stall selling locally made cheese. We encourage everyone to bring a bottle, as free drinking water is available from taps near the bridge. Finally, the evening concert will go ahead even if it rains, but do bring a jacket because it can get cool by the river. We hope you enjoy the day.",
+    "questions": [
+      {"prompt": "In which park is the festival being held?", "answer": "Meadow"},
+      {"prompt": "Which car park should visitors use?", "answer": "north"},
+      {"prompt": "What kind of performance is the first event?", "answer": "drumming"},
+      {"prompt": "What time does the first event begin?", "answer": "11:30"},
+      {"prompt": "What colour are the signs for children's activities?", "answer": "yellow"},
+      {"prompt": "What can children make in the tent?", "answer": "masks"},
+      {"prompt": "What must visitors collect for the children's activity?", "answer": "ticket"},
+      {"prompt": "Where will lost property be kept, at the _____ van?", "answer": "library"},
+      {"prompt": "What locally made food is sold at one stall?", "answer": "cheese"},
+      {"prompt": "What should visitors bring to wear in the evening?", "answer": "jacket"}
+    ]
+  },
+  {
+    "title": "Part 3: Planning a student research project",
+    "script": "NINA: We need to decide on the focus of our research project, Ben. I was interested in student transport, but the tutor thought that topic was too broad.\nBEN: Right. She suggested looking specifically at cycling to campus.\nNINA: Yes. Let's start by examining the university's travel survey from 2023. That should give us a baseline.\nBEN: Agreed. Then we can collect our own data using a questionnaire. Interviews would take too long with just the two of us.\nNINA: We should aim for 60 responses. That's manageable, and more than last year's group collected.\nBEN: Where should we recruit people?\nNINA: Outside the cafeteria at lunchtime. Students from different departments go there.\nBEN: Good. We should ask what prevents people cycling. I suspect safety will be the main concern.\nNINA: Maybe, although the cost of a bicycle might matter too. We'll see what the data shows. For the analysis, can you make the graphs?\nBEN: Sure, I'll use a spreadsheet. You could write the section explaining our method.\nNINA: Fine. We'll both check the conclusions. When is our first draft due?\nBEN: On the 18th of May.\nNINA: We'd better meet the tutor before then. Is Thursday possible for you?\nBEN: Yes. I'll email her today and ask for a Thursday appointment.\nNINA: Great. And let's keep copies of all our notes in the shared folder called Mobility, so we don't lose anything.",
+    "questions": [
+      {"prompt": "What form of transport did the tutor suggest studying?", "answer": "cycling"},
+      {"prompt": "Which year's university travel survey will the students examine?", "answer": "2023"},
+      {"prompt": "What tool will they use to collect their own data?", "answer": "questionnaire"},
+      {"prompt": "How many responses do they aim to collect?", "answer": "60"},
+      {"prompt": "Where will they recruit participants, outside the _____?", "answer": "cafeteria"},
+      {"prompt": "What does Ben expect to be the main concern preventing cycling?", "answer": "safety"},
+      {"prompt": "What will Ben use to make the graphs?", "answer": "spreadsheet"},
+      {"prompt": "Which section will Nina write?", "answer": "method"},
+      {"prompt": "On what date in May is the first draft due?", "answer": "18"},
+      {"prompt": "What is the shared folder called?", "answer": "Mobility"}
+    ]
+  },
+  {
+    "title": "Part 4: The ecology of urban ponds",
+    "script": "Today we'll examine how small ponds contribute to urban ecology. Although a single pond may occupy little space, a network of ponds can connect habitats across a city. One benefit is that ponds provide a breeding site for amphibians, particularly frogs, which return to water to lay their eggs.\n\nThe physical design of a pond has a strong influence on the species it supports. A shallow edge warms up more quickly than deep water, helping the larvae of many insects develop. A varied shoreline is also valuable: it creates sheltered pockets where young animals can avoid predators. By contrast, lining the entire edge with concrete tends to reduce the number of suitable microhabitats.\n\nWater quality matters too. Fertiliser washed in from nearby lawns can add excess nutrients. This may cause algae to grow rapidly, blocking sunlight from reaching plants below the surface. As a result, submerged vegetation can decline. Managers can reduce nutrient input by planting a buffer of grasses around the pond to slow and filter runoff.\n\nFish are sometimes introduced because people enjoy watching them. However, in a small wildlife pond, fish may eat insect larvae and amphibian eggs. For that reason, conservation teams often recommend leaving such ponds fish-free. Monitoring is essential: volunteers can record observations in spring, when many species are most active and easier to detect. These records help researchers identify changes over time. Finally, communities can support pond wildlife by keeping dogs out of the water, since repeated disturbance can damage plants along the margins.",
+    "questions": [
+      {"prompt": "What animals mentioned in the lecture return to ponds to lay eggs?", "answer": "frogs"},
+      {"prompt": "Which part of a pond warms quickly: its shallow _____?", "answer": "edge"},
+      {"prompt": "What does a varied shoreline help young animals avoid?", "answer": "predators"},
+      {"prompt": "What edge material can reduce suitable microhabitats?", "answer": "concrete"},
+      {"prompt": "What substance from lawns can add excess nutrients to ponds?", "answer": "fertiliser"},
+      {"prompt": "What can grow rapidly and block sunlight?", "answer": "algae"},
+      {"prompt": "What plants can form a buffer around a pond?", "answer": "grasses"},
+      {"prompt": "What animals are often best left out of small wildlife ponds?", "answer": "fish"},
+      {"prompt": "In which season can volunteers record many active species?", "answer": "spring"},
+      {"prompt": "What animals should communities keep out of pond water?", "answer": "dogs"}
+    ]
+  }
+]

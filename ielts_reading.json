@@ -1,0 +1,81 @@
+{
+  "notice": "Original, unofficial IELTS Academic-style reading practice. All passages are fictional compositions written for this exercise.",
+  "passages": [
+    {
+      "title": "Gardens Above the Street",
+      "text": [
+        "In 2014, the fictional city of Bellmere began investigating whether the flat roofs of public buildings could support small gardens. The idea was not new, but earlier proposals had focused on producing food. This project instead aimed to reduce the amount of rainwater entering drains during storms, when the city's older pipes were most likely to overflow.",
+        "Engineers selected three library roofs because their structures had already been assessed during renovation. Each roof received a waterproof layer, a drainage sheet and a shallow growing medium made mainly from crushed brick and compost. The team chose low-growing plants with thick leaves, which could survive periods without watering. A fourth library roof remained bare and served as a comparison site.",
+        "Sensors recorded rainfall and the water leaving each roof at five-minute intervals. Over the first full year, the planted roofs retained an average of 58 percent of the rain that fell on them. Retention varied by season: it was highest in summer, when plants and evaporation removed more stored moisture. During prolonged winter rain, the growing medium could become saturated, leaving little room to hold additional water.",
+        "The gardens also affected building temperatures, although this was not the principal reason for installing them. On warm afternoons, the ceiling immediately below a planted roof tended to be cooler than the ceiling under the bare roof. The investigators cautioned, however, that their study did not measure the buildings' total energy consumption. They could not therefore calculate any savings on electricity bills.",
+        "Maintenance proved important. In the first spring, wind carried seeds from nearby trees onto one roof, where the seedlings began to compete with the intended plants. Staff removed them by hand and later scheduled inspections twice a year. Following the trial, the city approved gardens for two more public buildings, but required a structural survey before any installation. Private building owners were offered a guide to the method, not a subsidy."
+      ],
+      "questions": [
+        {"prompt": "In what year did Bellmere begin investigating roof gardens?", "answer": "2014", "kind": "text", "instruction": "Write ONE NUMBER from the passage."},
+        {"prompt": "What was the main type of water the project sought to keep out of drains?", "answer": "rainwater", "kind": "text", "instruction": "Write ONE WORD from the passage."},
+        {"prompt": "What type of public building provided the four study roofs?", "answer": "library", "kind": "text", "instruction": "Write ONE WORD from the passage."},
+        {"prompt": "What crushed material was a main component of the growing medium?", "answer": "brick", "kind": "text", "instruction": "Write ONE WORD from the passage."},
+        {"prompt": "Which plant feature helped the selected plants survive without watering?", "answer": "thick leaves", "kind": "text", "instruction": "Write NO MORE THAN TWO WORDS from the passage."},
+        {"prompt": "How often did the sensors record measurements?", "answer": "five-minute intervals", "kind": "text", "instruction": "Write NO MORE THAN TWO WORDS from the passage."},
+        {"prompt": "What average percentage of rainfall did the planted roofs retain during the first full year?", "answer": "58 percent", "kind": "text", "instruction": "Write ONE NUMBER AND A WORD from the passage."},
+        {"prompt": "In which season was rainwater retention highest?", "answer": "summer", "kind": "text", "instruction": "Write ONE WORD from the passage."},
+        {"prompt": "What unwanted plants did staff remove by hand?", "answer": "seedlings", "kind": "text", "instruction": "Write ONE WORD from the passage."},
+        {"prompt": "The project's main purpose was to grow food for library users.", "answer": "FALSE", "kind": "tfng", "instruction": "Write TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not say."},
+        {"prompt": "The investigators measured the libraries' total energy consumption.", "answer": "FALSE", "kind": "tfng", "instruction": "Write TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not say."},
+        {"prompt": "A structural survey was required before further city installations.", "answer": "TRUE", "kind": "tfng", "instruction": "Write TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not say."},
+        {"prompt": "All three planted roofs cost the same amount to maintain.", "answer": "NOT GIVEN", "kind": "tfng", "instruction": "Write TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not say."}
+      ]
+    },
+    {
+      "title": "Reading a Pottery Workshop",
+      "text": [
+        "Archaeologists studying the fictional settlement of Namar once assumed that its decorated pottery had been imported. The designs resembled vessels found far to the east, and no kiln had been identified locally. That interpretation changed when a road survey exposed a layer of fired clay on the edge of the settlement. Excavation revealed the remains of a workshop operating approximately 1,800 years ago.",
+        "The strongest evidence for local production came not from finished pots but from failures. Among the debris were warped bowls and pieces fused together by excessive heat. Such objects, known as wasters, are usually discarded near the place where they were fired because they are unsuitable for sale or use. The team also found fragments of supports used to separate vessels inside the kiln.",
+        "Chemical analysis offered a second line of evidence. Researchers compared trace elements in the pottery with samples from clay deposits along two nearby streams. The closest match came from the northern stream, although the results could not establish the exact point at which the clay had been collected. A few vessels had a different composition, suggesting that they were made elsewhere or from another, as yet unidentified, clay source.",
+        "The workshop floor contained shallow circular hollows. At first these were interpreted as places where potters had sat, but experiments suggested another possibility. When a wooden turntable was placed in a similar hollow, it stayed steady while a pot was shaped. The excavators now consider the hollows possible turntable supports, while acknowledging that no wooden turntable survived at the site.",
+        "Dating the workshop required several kinds of evidence. Charcoal from a firing area was radiocarbon dated, and coins found beneath a collapsed wall provided an additional chronological clue. Neither method alone established how many years the workshop remained in use. Nor did the excavation determine whether the craftspeople worked throughout the year. What it did show is that a resemblance in decoration is not sufficient proof that a vessel travelled a long distance: techniques and designs can move between communities even when the pots themselves do not."
+      ],
+      "questions": [
+        {"prompt": "What discovery first led to excavation on the edge of Namar?", "answer": "a layer of fired clay", "kind": "text", "instruction": "Write NO MORE THAN FIVE WORDS from the passage."},
+        {"prompt": "Approximately how many years ago was the workshop operating?", "answer": "1,800", "kind": "text", "instruction": "Write ONE NUMBER from the passage."},
+        {"prompt": "What term is used for the defective objects discarded near the firing place?", "answer": "wasters", "kind": "text", "instruction": "Write ONE WORD from the passage."},
+        {"prompt": "What caused some pieces to fuse together?", "answer": "excessive heat", "kind": "text", "instruction": "Write NO MORE THAN TWO WORDS from the passage."},
+        {"prompt": "What did supports inside the kiln keep apart?", "answer": "vessels", "kind": "text", "instruction": "Write ONE WORD from the passage."},
+        {"prompt": "Which nearby stream produced the closest chemical match?", "answer": "northern stream", "kind": "text", "instruction": "Write NO MORE THAN TWO WORDS from the passage."},
+        {"prompt": "What object did experiments place in a hollow to test its possible function?", "answer": "a wooden turntable", "kind": "text", "instruction": "Write NO MORE THAN THREE WORDS from the passage."},
+        {"prompt": "What material from a firing area was radiocarbon dated?", "answer": "charcoal", "kind": "text", "instruction": "Write ONE WORD from the passage."},
+        {"prompt": "What was found beneath a collapsed wall and used as a chronological clue?", "answer": "coins", "kind": "text", "instruction": "Write ONE WORD from the passage."},
+        {"prompt": "Before the road survey, a kiln had already been identified at Namar.", "answer": "FALSE", "kind": "tfng", "instruction": "Write TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not say."},
+        {"prompt": "Every analysed vessel had the same chemical composition.", "answer": "FALSE", "kind": "tfng", "instruction": "Write TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not say."},
+        {"prompt": "A wooden turntable was recovered from the workshop.", "answer": "FALSE", "kind": "tfng", "instruction": "Write TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not say."},
+        {"prompt": "The craftspeople made pottery only during the summer.", "answer": "NOT GIVEN", "kind": "tfng", "instruction": "Write TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not say."}
+      ]
+    },
+    {
+      "title": "The Problem of Remembering to Remember",
+      "text": [
+        "Remembering to carry out an intention later, such as returning a borrowed book, is known as prospective memory. It differs from recalling a past event: the person must not only remember what to do but also notice when to do it. Researchers often distinguish event-based intentions, triggered by an occurrence such as meeting a friend, from time-based intentions, triggered by a moment such as four o'clock.",
+        "In one fictional laboratory study, volunteers performed a word-classification task while also trying to press a particular key whenever the word 'harbour' appeared. Some were told the target would be printed in red; for others it appeared in the same black type as all the other words. The red target was detected more often. The researchers argued that a distinctive cue can draw attention to an intention, although their design could not show exactly which mental process produced the improvement.",
+        "Making a cue noticeable is not always enough. A reminder placed on a kitchen table may be effective initially but become less useful if it stays there for weeks. As the reminder becomes familiar, people may stop noticing it. Moving it to an unusual location can restore its visibility, but only if the new location is encountered at a useful time. A note on a front door may help someone remember a parcel when leaving home; it will not necessarily help with an intention that must be acted on at work.",
+        "External aids also have limits. A phone alarm can indicate when a task is due, but it may interrupt another activity. If the alarm is dismissed and the intended action is postponed, the user must form a new intention or set another reminder. Researchers therefore distinguish detecting a reminder from completing the intended action. The two outcomes should not be treated as interchangeable when evaluating a reminder system.",
+        "Studies outside laboratories add further complications. Participants may choose reminders suited to their own routines, making it difficult to tell whether success results from the reminder itself or from the person's planning habits. Randomly assigning reminder methods can help isolate an effect, but an assigned method may be less convenient than a self-selected one. Both approaches can contribute useful evidence, provided their different limitations are reported."
+      ],
+      "questions": [
+        {"prompt": "What name is given to remembering to carry out an intention later?", "answer": "prospective memory", "kind": "text", "instruction": "Write NO MORE THAN TWO WORDS from the passage."},
+        {"prompt": "What type of intention is triggered by an occurrence?", "answer": "event-based", "kind": "text", "instruction": "Write ONE WORD from the passage."},
+        {"prompt": "What task were volunteers performing while monitoring for a target?", "answer": "word-classification task", "kind": "text", "instruction": "Write NO MORE THAN TWO WORDS from the passage."},
+        {"prompt": "Which word served as the target in the laboratory study?", "answer": "harbour", "kind": "text", "instruction": "Write ONE WORD from the passage."},
+        {"prompt": "What colour was the more frequently detected target?", "answer": "red", "kind": "text", "instruction": "Write ONE WORD from the passage."},
+        {"prompt": "What may happen to a reminder that remains in the same place for weeks?", "answer": "people may stop noticing it", "kind": "text", "instruction": "Write NO MORE THAN FIVE WORDS from the passage."},
+        {"prompt": "Where might a note remind someone about a parcel when leaving home?", "answer": "a front door", "kind": "text", "instruction": "Write NO MORE THAN THREE WORDS from the passage."},
+        {"prompt": "What device can signal when a task is due but may interrupt another activity?", "answer": "phone alarm", "kind": "text", "instruction": "Write NO MORE THAN TWO WORDS from the passage."},
+        {"prompt": "What personal characteristic may complicate interpretation of studies in which participants choose their own reminders?", "answer": "planning habits", "kind": "text", "instruction": "Write NO MORE THAN TWO WORDS from the passage."},
+        {"prompt": "What allocation method can help researchers isolate the effect of reminder methods?", "answer": "randomly assigning", "kind": "text", "instruction": "Write NO MORE THAN TWO WORDS from the passage."},
+        {"prompt": "The study established exactly which mental process made the red target easier to detect.", "answer": "FALSE", "kind": "tfng", "instruction": "Write TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not say."},
+        {"prompt": "A reminder's new location must be encountered at a useful time if moving it is to help.", "answer": "TRUE", "kind": "tfng", "instruction": "Write TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not say."},
+        {"prompt": "Detecting a reminder always means that the intended action has been completed.", "answer": "FALSE", "kind": "tfng", "instruction": "Write TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not say."},
+        {"prompt": "The volunteers in the laboratory study were all university students.", "answer": "NOT GIVEN", "kind": "tfng", "instruction": "Write TRUE if the statement agrees with the passage, FALSE if it contradicts the passage, or NOT GIVEN if the passage does not say."}
+      ]
+    }
+  ]
+}
